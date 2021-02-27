@@ -47,4 +47,4 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-// 커밋확인... 잘되니?
+// 주석지울거당
