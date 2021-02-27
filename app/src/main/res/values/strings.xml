@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleProgress</string>
+    <string name="app_button">보여주기</string>
+    <string name="app_button2">닫기</string>
+</resources>
